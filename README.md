@@ -60,6 +60,5 @@ Your generated password is: a$T&9Bc4!
 ### Security Note:
 Always use the hard-level shuffled passwords for better security against brute force or pattern-based attacks.
 
---- 
-
-You can copy this markdown content into the `README.md` file for your project!
+ 
+ 
